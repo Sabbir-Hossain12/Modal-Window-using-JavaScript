@@ -3,5 +3,5 @@
 ## Demo
 
 ![screnshot 1](ss.png)
-<br>
+<hr>
 ![screnshot 2](ss2.png)
